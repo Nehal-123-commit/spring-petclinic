@@ -17,8 +17,4 @@ tab_width = 4
 indent_size = 2
 indent_style = space
 
-[*.{html,sql,less}]
-indent_size
-
-
-
+[*.{html,sql,less}
